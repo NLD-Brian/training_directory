@@ -40,53 +40,53 @@ Training Programs:
    :maxdepth: 1
    :caption: AIT 1 - 11 Series ( Infantry Forces )
 
-	ait_11/intro
-	ait_11/infantry_of_the_rrf
-	ait_11/the_squad_and_fireteam
-	ait_11/equipment
-	ait_11/preparing_for_action
-	ait_11/formations
-	ait_11/comunication
-	ait_11/battle_drills
-	ait_11/basic_medical
-	ait_11/mout
+   ait_11/intro
+   ait_11/infantry_of_the_rrf
+   ait_11/the_squad_and_fireteam
+   ait_11/equipment
+   ait_11/preparing_for_action
+   ait_11/formations
+   ait_11/comunication
+   ait_11/battle_drills
+   ait_11/basic_medical
+   ait_11/mout
 
 .. toctree::
    :maxdepth: 1
    :caption: Airborne School ( BPT )
 
-	arbn/intro
-	arbn/explanation
-	arbn/preparation
-	arbn/pre_jump
-	arbn/boarding
-	arbn/jumping
-	arbn/rallying
-	arbn/excercises
+   arbn/intro
+   arbn/explanation
+   arbn/preparation
+   arbn/pre_jump
+   arbn/boarding
+   arbn/jumping
+   arbn/rallying
+   arbn/excercises
 
 .. toctree::
    :maxdepth: 1
    :caption: Tactical Combat Casualty Care ( TC3 )
 
-	tc3/intro
-	tc3/medics_in_the_rrf
-	tc3/ACE
-	tc3/rendering_aid
-	tc3/equipment_of_the_medical_teams
-	tc3/levels_intro
-	tc3/ingame
+   tc3/intro
+   tc3/medics_in_the_rrf
+   tc3/ACE
+   tc3/rendering_aid
+   tc3/equipment_of_the_medical_teams
+   tc3/levels_intro
+   tc3/ingame
 
 .. toctree::
    :maxdepth: 1
    :caption: Joint Service Radio School ( JSRS )
 
-	jsrs-wip/intro
-	jsrs-wip/radio_use_overview
-	jsrs-wip/basic_principles
-	jsrs-wip/basic_transmission
-	jsrs-wip/message_protocols
-	jsrs-wip/reports
-	jsrs-wip/requests
+   jsrs-wip/intro
+   jsrs-wip/radio_use_overview
+   jsrs-wip/basic_principles
+   jsrs-wip/basic_transmission
+   jsrs-wip/message_protocols
+   jsrs-wip/reports
+   jsrs-wip/requests
    
  .. toctree::
    :maxdepth: 1
@@ -101,10 +101,10 @@ Training Programs:
    official_documentation/ranks_and_promotions
 
 .. toctree::
-  :maxdepth: 1
-  :caption: Brand Guidelines
+   :maxdepth: 1
+   :caption: Brand Guidelines
 
-  branding_and_recruitment/intro
-  branding_and_recruitment/value_propositions
-  branding_and_recruitment/recruitment_posts
-  branding_and_recruitment/inbound
+   branding_and_recruitment/intro
+   branding_and_recruitment/value_propositions
+   branding_and_recruitment/recruitment_posts
+   branding_and_recruitment/inbound
